@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(65, 216, 206);
+}
+
+h1{
+    color: rgba(232, 239, 13, 0.948);
+}
+
+.tituloDos {
+    color: blueviolet;
+}
+
+#tituloCuatro  {
+    color: rgb(241, 142, 22);
+}
